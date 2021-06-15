@@ -1,0 +1,4 @@
+co/com/Screenplay/TestRunner/TradurcirPalbrasInglesEspanolRunn.java
+ co.com.Screenplay.TestRunner.TradurcirPalbrasInglesEspanolRunn
+co/com/Screenplay/StepDefinition/StepDefinitionTraductorGoogle.java
+ co.com.Screenplay.StepDefinition.StepDefinitionTraductorGoogle
